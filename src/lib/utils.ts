@@ -38,3 +38,4 @@ const formatter = new Intl.NumberFormat('id-ID', {
 	currency: 'IDR',
 	trailingZeroDisplay: 'stripIfInteger'
 });
+	
