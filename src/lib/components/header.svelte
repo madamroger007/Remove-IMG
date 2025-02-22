@@ -1,12 +1,9 @@
 <script lang="ts">
-	import CircleIcon from "$lib/icons/circle-icon.svelte";
 	import HamburgerIcon from "$lib/icons/hamburger-icon.svelte";
-	import LoadingIcon from "$lib/icons/loading-icon.svelte";
 	import GiftIcon from "$lib/icons/gift-icon.svelte";
 	import DonationIcon from "$lib/icons/donate-icon.svelte";
 	import SupportIcon from "$lib/icons/support-icon.svelte";
 	import { LightSwitch } from "@skeletonlabs/skeleton";
-	import { onMount } from "svelte";
 	import Sidebar from "./sidebar.svelte";
 	import { page } from "$app/stores";
 

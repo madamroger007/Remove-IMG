@@ -75,12 +75,12 @@
 			<div class="flex h-full items-center justify-center py-20">
 				<div class="flex flex-col items-center justify-center space-y-3">
 					<LoadingIcon class="block size-20 animate-spin" />
-					<p class="text-center text-black/50 dark:text-white/50">Sabar bang, lagi diproses</p>
+					<p class="text-center text-black/50 dark:text-white/50">in process, please wait</p>
 				</div>
 			</div>
 		{:else}
 			<div class="flex h-full items-center justify-center py-20">
-				<p class="text-center text-black/50 dark:text-white/50">Hasil akan muncul di sini</p>
+				<p class="text-center text-black/50 dark:text-white/50">The results will appear here</p>
 			</div>
 		{/if}
 	</section>

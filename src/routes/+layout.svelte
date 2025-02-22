@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { env } from '$env/dynamic/public';
 	import type { Snippet } from 'svelte';
 	import { Toaster } from 'svelte-french-toast';
 	import SvelteSeo from 'svelte-seo';
