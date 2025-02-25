@@ -1,0 +1,6 @@
+node_modules
+*.log
+.svelte-kit
+build
+tests
+coverage

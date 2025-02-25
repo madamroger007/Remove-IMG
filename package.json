@@ -28,6 +28,7 @@
 		"@imgly/background-removal-node": "^1.4.5",
 		"@sveltejs/adapter-auto": "^4.0.0",
 		"@tfkhdyt/with-catch": "npm:@jsr/tfkhdyt__with-catch",
+		"@vercel/node": "^5.1.8",
 		"clsx": "^2.1.1",
 		"jszip": "^3.10.1",
 		"svelte-french-toast": "^1.2.0",
