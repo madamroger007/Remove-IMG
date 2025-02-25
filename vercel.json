@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "api/**/*": {
+        "runtime": "nodejs@18.0.0"
+      }
+    }
+  }
+  
