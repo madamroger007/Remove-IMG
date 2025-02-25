@@ -2,7 +2,7 @@ import { withCatch } from '@tfkhdyt/with-catch';
 import { imageSchema } from './schema/image-schema';
 
 export const removeBg = async (images: FileList | undefined) => {
-	if (!images) throw new Error('Tidak ada gambar yang dikirim');
+	if (!images) throw new Error('not request to images');
 
 	const payload = imageSchema.array().safeParse(Array.from(images));
 	if (!payload.success) {

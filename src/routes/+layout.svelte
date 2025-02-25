@@ -38,4 +38,4 @@
 
 {@render children()}
 
-<Toaster position="bottom-right" />
+<Toaster position="bottom-right"/>

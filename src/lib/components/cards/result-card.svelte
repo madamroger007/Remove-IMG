@@ -93,7 +93,7 @@
 					onclick={handleDownloadAll}
 				>
 					<DownloadMultipleIcon class="mr-2 size-6" />
-					Download semua
+					Download All
 				</button>
 			{:else if outputs.length === 1}
 				<button

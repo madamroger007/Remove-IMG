@@ -53,7 +53,7 @@
 
 
 
-		toast.success('Proses berhasil');
+		toast.success('Proses success');
 
 		isLoading = false;
 	}
